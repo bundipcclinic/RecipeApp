@@ -1,1 +1,1 @@
-This project is defines two classes - `Recipe` and `RecipeApp`.
+This project is defines two classes - `Recipe` and `RecipeApp`. The `Recipe` class represents a recipe with its name, ingredients, and instructions. The `RecipeApp` class represents the recipe application and contains methods to add, delete, and display recipes.
