@@ -1,1 +1,1 @@
-th
+This project is defines two classes - `Recipe` and `RecipeApp`.
